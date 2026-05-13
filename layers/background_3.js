@@ -1,0 +1,1 @@
+var json_background_3 = {"type":"FeatureCollection","name":"background_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Polygon","coordinates":[[[-180.0,85.06],[-180.0,-85.06],[180.0,-85.06],[180.0,85.06],[-180.0,85.06]]]}}]}
